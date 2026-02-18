@@ -4,3 +4,14 @@ __pycache__/
 video/
 tracks.csv
 team_centroids.csv
+# outputs
+runs/
+*.avi
+*.mp4
+*.mkv
+*.mov
+
+# models
+*.pt
+*.pth
+*.onnx
