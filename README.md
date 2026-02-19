@@ -124,7 +124,7 @@ This enables:
 ---
 
 ## Project Architecture
-
+```
 comp-vision-football/
 │
 ├── track.py
@@ -137,7 +137,7 @@ comp-vision-football/
 │
 └── analytics/
 └── compute_centroids.py
-
+```
 
 Design principles:
 
